@@ -1,6 +1,6 @@
 ### Hello, World 👋
 
-<center><a href="https://imgflip.com/i/4lxs4z"><img src="https://i.imgflip.com/4lxs4z.png" width="400" height="400" alt="Um pouco sobre mim"/></a></center>
+<a href="https://imgflip.com/i/4lxs4z"><img src="https://i.imgflip.com/4lxs4z.png" width="400" height="400" alt="Um pouco sobre mim" align="right"/></a>
 
 <!--
 **Gilszon/Gilszon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
