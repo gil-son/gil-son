@@ -12,7 +12,7 @@
 </table>
 -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gilszon&show_icons=true&theme=graywhite" />
-<a href="https://imgflip.com/i/4lxs4z"><img src="https://i.imgflip.com/4lxs4z.png" width="320" height="320" alt="Um pouco sobre mim" align="right"/></a>
+<a href="https://imgflip.com/i/4lxs4z"><img src="https://i.imgflip.com/4lxs4z.png" width="300" height="300" alt="Um pouco sobre mim" align="right"/></a>
 
 <!--
 **Gilszon/Gilszon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
