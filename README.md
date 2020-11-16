@@ -1,4 +1,4 @@
-### Hello, World 👋
+### Hello, World :globe_with_meridians:
 
 <table>
  <tr>
