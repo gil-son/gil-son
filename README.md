@@ -3,7 +3,7 @@
 <table>
  <tr>
       <td>
-         ![Gilszon](<img src="https://github-readme-stats.vercel.app/api?username=Gilszon&show_icons=true&theme=graywhite" />)
+         ![Gilszon](<img src="https://github-readme-stats.vercel.app/api?username=giilson&show_icons=true&theme=graywhite" />)
       </td>
       <td>    
        <a href="https://imgflip.com/i/4lxs4z"><img src="https://i.imgflip.com/4lxs4z.png" width="300" height="300" alt="Um pouco sobre mim" align="right"/></a>
