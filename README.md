@@ -1,6 +1,6 @@
 ### Hello, World :globe_with_meridians:
 <p>My site: <a href="https://gilsonvieiradesouza.epizy.com/" target="_blank">Link</a>. Access after a long period require you to wait 1 minute.
-<img src="https://media.giphy.com/media/1xkOlwTamroKS7QssX/giphy.gif" width="40" height="40"></img>
+<img src="https://media.giphy.com/media/Ybn6JMiTnjm4U/giphy.gif" width="40" height="40"></img>
 </p> 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gil-son&show_icons=true&theme=graywhite" />
