@@ -1,4 +1,4 @@
-### Hello, World :globe_with_meridians:
+### Hello, World <img src="https://media.giphy.com/media/RkHFJCWvv0WnUjPX98/giphy.gif" width="40" height="40"></img>
 <p>My site: <a href="https://gilsonvieiradesouza.epizy.com/" target="_blank">Link</a>. Access after a long period require you to wait 1 minute.
 <img src="https://media.giphy.com/media/Ybn6JMiTnjm4U/giphy.gif" width="40" height="40"></img>
 </p> 
