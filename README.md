@@ -1,6 +1,6 @@
-### Hello, World <img src="https://media.giphy.com/media/RkHFJCWvv0WnUjPX98/giphy.gif" width="40" height="40"></img>
+### Hello, <img src="https://media.giphy.com/media/RkHFJCWvv0WnUjPX98/giphy.gif" width="40" height="40"></img>
 <p>My site: <a href="https://gilsonvieiradesouza.epizy.com/" target="_blank">Link</a>. Access after a long period require you to wait 1 minute.
-<img src="https://media.giphy.com/media/Ybn6JMiTnjm4U/giphy.gif" width="40" height="40"></img>
+
 </p> 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gil-son&show_icons=true&theme=graywhite" />
@@ -14,7 +14,7 @@
 <!--
 (https://github.com/gil-son/github-readme-activity-graph)
 
-
+<img src="https://media.giphy.com/media/Ybn6JMiTnjm4U/giphy.gif" width="40" height="40"></img>
 
 
 
