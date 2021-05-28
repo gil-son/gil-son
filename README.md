@@ -1,8 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,&color=000"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,&color=c3c3c3"/>
 <img src="https://media.giphy.com/media/RkHFJCWvv0WnUjPX98/giphy.gif" width="100" height="100"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Take+a+coffe+and+enjoy&color=000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Take+a+coffe+and+enjoy&color=c3c3c3)](https://git.io/typing-svg)
 
 
 <p>My site: <a href="https://gilsonvieiradesouza.epizy.com/" target="_blank">Link</a>. Access after a long period require you to wait 1 minute.  
