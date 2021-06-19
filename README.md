@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Take+a+☕+and+enjoy&color=c3c3c3)](https://git.io/typing-svg)
 
 
-<p>My site: <a href="https://gilsonvieiradesouza.epizy.com/" target="_blank">Link</a>. Access after a long period require you to wait 1 minute.  
+<p>My site: <a href="http://gilsonvieiradesouza.epizy.com/" target="_blank">Link</a>. Access after a long period require you to wait 1 minute.  
   
 </p> 
 
