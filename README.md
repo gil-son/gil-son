@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/RkHFJCWvv0WnUjPX98/giphy.gif" width="100" height="100"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Take+a+☕+and+enjoy&color=c3c3c3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Take+a+☕+and+enjoy+(יְהֹוָה)&color=c3c3c3)](https://git.io/typing-svg)
 
 
 <p>My site: <a href="http://gilsonvieiradesouza.epizy.com/" target="_blank">Link</a>. Access after a long period require you to wait 1 minute.  
