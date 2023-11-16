@@ -20,12 +20,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gil-son&repo=dsmovie&theme=transparent" />
 </a>
 
-<a href="https://github.com/gil-son/kafka-versions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gil-son&repo=kafka-versions&theme=transparent" />
-</a>
-
 <a href="https://github.com/gil-son/semana-spring-react-sds3.0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gil-son&repo=semana-spring-react-sds3.0&theme=transparent" />
+</a>
+
+<a href="https://github.com/gil-son/kafka-versions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gil-son&repo=kafka-versions&theme=transparent" />
 </a>
 
 <a href="https://github.com/gil-son/bitcoin-balance">
